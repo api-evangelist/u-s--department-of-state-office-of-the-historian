@@ -1,0 +1,48 @@
+{
+    "name": "U.S. Department of State Office of the Historian",
+    "description": "If you're looking for the official source of information about the U.S. Department of State, please visit http:\/\/www.state.gov.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1789-u-s--department-of-state-office-of-the-historian.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/u-s--department-of-state-office-of-the-historian\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "U.S. Department of State Office of the Historian",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1789-u-s--department-of-state-office-of-the-historian.jpg",
+            "humanURL": "https:\/\/history.state.gov\/developer\/catalog",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--department-of-state-office-of-the-historian-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--department-of-state-office-of-the-historian-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/u-s-department-of-state"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/StateDept"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/history.state.gov\/developer\/catalog"
+        }
+    ]
+}
